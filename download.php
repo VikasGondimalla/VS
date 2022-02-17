@@ -29,6 +29,8 @@ $mime_type=$known_mime_types[$file_extension];
 $mime_type="application/force-download";
 };
 };
+vikas
+vicky
 
 @ob_end_clean();
 
